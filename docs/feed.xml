@@ -1,6 +1,171 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <title>Mis articulos en audio</title>
+    <link>https://robertoroseteg-cloud.github.io/rebcolombia</link>
+    <description>Articulos de mis feeds RSS convertidos a audio automaticamente.</description>
+    <language>es</language>
+    <itunes:author>Pipeline automatico</itunes:author>
+    
+    <item>
+      <title>El «trilema de la urna»: anatomía del voto de derecha en la Colombia de 2026</title>
+      <description>Colombia – Rebelion — https://rebelion.org/el-trilema-de-la-urna-anatomia-del-voto-de-derecha-en-la-colombia-de-2026/</description>
+      <link>https://rebelion.org/el-trilema-de-la-urna-anatomia-del-voto-de-derecha-en-la-colombia-de-2026/</link>
+      <guid isPermaLink="false">58ce1fb76bf6abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 23:12:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/58ce1fb76bf6abd7.mp3" length="10418688" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Más allá del aparente resultado de las elecciones presidenciales de Colombia</title>
+      <description>Colombia – Rebelion — https://rebelion.org/mas-alla-del-aparente-resultado-de-las-elecciones-presidenciales-de-colombia/</description>
+      <link>https://rebelion.org/mas-alla-del-aparente-resultado-de-las-elecciones-presidenciales-de-colombia/</link>
+      <guid isPermaLink="false">79ea758ab02b8922</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/79ea758ab02b8922.mp3" length="2888784" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Abelardo de La Espriella, presidente farsante:  injerto del narcoparamilitarismo hacia la dictadura civil fascista en Colombia</title>
+      <description>Colombia – Rebelion — https://rebelion.org/abelardo-de-la-espriella-presidente-farsante-injerto-del-narco-paramilitarismo-hacia-la-dictadura-civil-fascista-en-colombia/</description>
+      <link>https://rebelion.org/abelardo-de-la-espriella-presidente-farsante-injerto-del-narco-paramilitarismo-hacia-la-dictadura-civil-fascista-en-colombia/</link>
+      <guid isPermaLink="false">9e19d70a0931e7b0</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:40 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/9e19d70a0931e7b0.mp3" length="4833216" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Gobernar sin permanecer</title>
+      <description>Colombia – Rebelion — https://rebelion.org/gobernar-sin-permanecer/</description>
+      <link>https://rebelion.org/gobernar-sin-permanecer/</link>
+      <guid isPermaLink="false">f29b10bb0c921248</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f29b10bb0c921248.mp3" length="5300064" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Colombia ingresa en una verdadera «crisis orgánica» del régimen oligárquico de dominación</title>
+      <description>Colombia – Rebelion — https://rebelion.org/colombia-ingresa-en-una-verdadera-crisis-organica-del-regimen-oligarquico-de-dominacion/</description>
+      <link>https://rebelion.org/colombia-ingresa-en-una-verdadera-crisis-organica-del-regimen-oligarquico-de-dominacion/</link>
+      <guid isPermaLink="false">f628997c0b5e0a53</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:21 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f628997c0b5e0a53.mp3" length="2464560" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando la historia se desvanece</title>
+      <description>Colombia – Rebelion — https://rebelion.org/cuando-la-historia-se-desvanece/</description>
+      <link>https://rebelion.org/cuando-la-historia-se-desvanece/</link>
+      <guid isPermaLink="false">1aa3766184199eea</guid>
+      <pubDate>Sun, 05 Jul 2026 23:11:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/1aa3766184199eea.mp3" length="4256208" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Abelardo de la Espriella: Una amenaza sistémica a la vida y los derechos humanos</title>
+      <description>Colombia – Rebelion — https://rebelion.org/abelardo-de-la-espriella-una-amenaza-sistemica-a-la-vida-y-los-derechos-humanos/</description>
+      <link>https://rebelion.org/abelardo-de-la-espriella-una-amenaza-sistemica-a-la-vida-y-los-derechos-humanos/</link>
+      <guid isPermaLink="false">fa2f9f3a67844228</guid>
+      <pubDate>Sun, 05 Jul 2026 23:10:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/fa2f9f3a67844228.mp3" length="6726528" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Sospecha de fraude y fascismo que llega</title>
+      <description>Colombia – Rebelion — https://rebelion.org/sospecha-de-fraude-y-fascismo-que-llega/</description>
+      <link>https://rebelion.org/sospecha-de-fraude-y-fascismo-que-llega/</link>
+      <guid isPermaLink="false">394380ffd71bcc8c</guid>
+      <pubDate>Sun, 05 Jul 2026 23:10:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/394380ffd71bcc8c.mp3" length="2122416" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>El presidente que no es ni nunca debió ser</title>
+      <description>Colombia – Rebelion — https://rebelion.org/el-presidente-que-no-es-ni-nunca-debio-ser/</description>
+      <link>https://rebelion.org/el-presidente-que-no-es-ni-nunca-debio-ser/</link>
+      <guid isPermaLink="false">ee6644e623de68a4</guid>
+      <pubDate>Sun, 05 Jul 2026 23:10:29 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/ee6644e623de68a4.mp3" length="8151408" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Patrice Lumumba en el Mundial y la ignorancia racista de los «colombianos de bien»</title>
+      <description>Colombia – Rebelion — https://rebelion.org/patrice-lumumba-en-el-mundial-y-la-ignorancia-racista-de-los-colombianos-de-bien/</description>
+      <link>https://rebelion.org/patrice-lumumba-en-el-mundial-y-la-ignorancia-racista-de-los-colombianos-de-bien/</link>
+      <guid isPermaLink="false">e739ff2a97960daa</guid>
+      <pubDate>Sun, 05 Jul 2026 23:09:47 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/e739ff2a97960daa.mp3" length="7377984" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Zulema, la intrépida “Claudia”</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/zulema-la-intrepida-claudia/</description>
+      <link>https://desinformemonos.org/zulema-la-intrepida-claudia/</link>
+      <guid isPermaLink="false">7c8d7b4aa7411b09</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:49 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/7c8d7b4aa7411b09.mp3" length="5579136" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Las guerras por Guerrero</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/las-guerras-por-guerrero-2/</description>
+      <link>https://desinformemonos.org/las-guerras-por-guerrero-2/</link>
+      <guid isPermaLink="false">b9c7c02dd55c5ef7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:18:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/b9c7c02dd55c5ef7.mp3" length="3403296" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando el capital invocó a la patria fue para colonizar territorio mapuche</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</description>
+      <link>https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/</link>
+      <guid isPermaLink="false">0476f85ad805e9dc</guid>
+      <pubDate>Sun, 05 Jul 2026 07:17:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/0476f85ad805e9dc.mp3" length="3473856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</description>
+      <link>https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/</link>
+      <guid isPermaLink="false">93288eccb26a0137</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:52 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/93288eccb26a0137.mp3" length="1488240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Pero dos lo zarandeaban para que se callara</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</description>
+      <link>https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/</link>
+      <guid isPermaLink="false">2a34cb5da8e007d8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:16:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/2a34cb5da8e007d8.mp3" length="3647376" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Violencia fatal e impunidad contra pueblos indígenas en Paraguay</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</description>
+      <link>https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/</link>
+      <guid isPermaLink="false">bd51fc61a35596c8</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:58 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/bd51fc61a35596c8.mp3" length="1241856" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Lo político en Cecosesola</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/lo-politico-en-cecosesola/</description>
+      <link>https://desinformemonos.org/lo-politico-en-cecosesola/</link>
+      <guid isPermaLink="false">731770e3cc47abd7</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:50 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/731770e3cc47abd7.mp3" length="1417824" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Maternidades en espera: ser madre y solicitar asilo en México</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</description>
+      <link>https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/</link>
+      <guid isPermaLink="false">aa0cd6c5f0b33f27</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:37 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/aa0cd6c5f0b33f27.mp3" length="2482848" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</description>
+      <link>https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/</link>
+      <guid isPermaLink="false">599f2175eaa58998</guid>
+      <pubDate>Sun, 05 Jul 2026 07:15:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/599f2175eaa58998.mp3" length="4633776" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita</title>
+      <description>Columnas – Desinformémonos — https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</description>
+      <link>https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/</link>
+      <guid isPermaLink="false">dbfeb9bd6a06d9f0</guid>
+      <pubDate>Sun, 05 Jul 2026 07:14:31 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/dbfeb9bd6a06d9f0.mp3" length="1661328" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
