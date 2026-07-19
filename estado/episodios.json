@@ -1,5 +1,86 @@
 [
   {
+    "id": "aa6d639cb458c163",
+    "titulo": "¿Qué tan perjudicial sería que el presidente electo De la Espriella acabara la JEP?",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/que-tan-perjudicial-seria-que-el-presidente-eletro-de-la-espriella-acabara-la-jep/",
+    "archivo": "aa6d639cb458c163.mp3",
+    "bytes": 1505232,
+    "timestamp": 1784476326
+  },
+  {
+    "id": "a954e58eaab997c0",
+    "titulo": "¿Tendrá De la Espriella estabilidad en su gobernanza y su gobernabilidad?",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/tendra-de-la-espriella-estabilidad-en-su-gobernanza-y-su-gobernabilidad/",
+    "archivo": "a954e58eaab997c0.mp3",
+    "bytes": 1502784,
+    "timestamp": 1784476298
+  },
+  {
+    "id": "3eaee1aafe469024",
+    "titulo": "Mercenarios colombianos en el mercado capitalista de la muerte",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/mercenarios-colombianos-en-el-mercado-capitalista-de-la-muerte/",
+    "archivo": "3eaee1aafe469024.mp3",
+    "bytes": 21523824,
+    "timestamp": 1784476276
+  },
+  {
+    "id": "84fe5f7efae493c9",
+    "titulo": "Cuando el poder es soberbio, la desobediencia es ley",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/cuando-el-poder-es-soberbio-la-desobediencia-es-ley/",
+    "archivo": "84fe5f7efae493c9.mp3",
+    "bytes": 2515248,
+    "timestamp": 1784475963
+  },
+  {
+    "id": "a17cec4ce375a2cb",
+    "titulo": "El Paramilitarismo como espectro en Colombia: seguridad y autoritarismo político",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/el-paramilitarismo-como-espectro-en-colombia-seguridad-y-autoritarismo-politico/",
+    "archivo": "a17cec4ce375a2cb.mp3",
+    "bytes": 6355872,
+    "timestamp": 1784475917
+  },
+  {
+    "id": "c5d435eb41c1f596",
+    "titulo": "¡Indignante! Petro llama a Donald Trump para que lo saque de la Lista Clinton",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/indignante-petro-llama-a-donald-trump-para-que-lo-saque-de-la-lista-clinton/",
+    "archivo": "c5d435eb41c1f596.mp3",
+    "bytes": 3585888,
+    "timestamp": 1784475852
+  },
+  {
+    "id": "3342f1251f7965b8",
+    "titulo": "Hacia un Acuerdo Nacional",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/hacia-un-acuerdo-nacional/",
+    "archivo": "3342f1251f7965b8.mp3",
+    "bytes": 881712,
+    "timestamp": 1784475765
+  },
+  {
+    "id": "8889d8ea8a3d6e85",
+    "titulo": "Dar forma a una salida proletaria a la crisis",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/darle-forma-a-una-salida-proletaria-a-la-crisis/",
+    "archivo": "8889d8ea8a3d6e85.mp3",
+    "bytes": 6586704,
+    "timestamp": 1784475756
+  },
+  {
+    "id": "c831bb82212b3c22",
+    "titulo": "Beto Coral: Prepararnos para lo que viene",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/beto-coral-prepararnos-para-lo-que-viene/",
+    "archivo": "c831bb82212b3c22.mp3",
+    "bytes": 1356480,
+    "timestamp": 1784475626
+  },
+  {
     "id": "58ce1fb76bf6abd7",
     "titulo": "El «trilema de la urna»: anatomía del voto de derecha en la Colombia de 2026",
     "fuente": "Colombia – Rebelion",
@@ -97,86 +178,5 @@
     "archivo": "7c8d7b4aa7411b09.mp3",
     "bytes": 5579136,
     "timestamp": 1783235929
-  },
-  {
-    "id": "b9c7c02dd55c5ef7",
-    "titulo": "Las guerras por Guerrero",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/las-guerras-por-guerrero-2/",
-    "archivo": "b9c7c02dd55c5ef7.mp3",
-    "bytes": 3403296,
-    "timestamp": 1783235885
-  },
-  {
-    "id": "0476f85ad805e9dc",
-    "titulo": "Cuando el capital invocó a la patria fue para colonizar territorio mapuche",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/cuando-el-capital-invoco-a-la-patria-fue-para-colonizar-territorio-mapuche/",
-    "archivo": "0476f85ad805e9dc.mp3",
-    "bytes": 3473856,
-    "timestamp": 1783235844
-  },
-  {
-    "id": "93288eccb26a0137",
-    "titulo": "Chile y Argentina: Dos Estados contra un mismo territorio (fronteras que se derriten al toque del capital)",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/chile-y-argentina-dos-estados-contra-un-mismo-territorio-fronteras-que-se-derriten-al-toque-del-capital/",
-    "archivo": "93288eccb26a0137.mp3",
-    "bytes": 1488240,
-    "timestamp": 1783235812
-  },
-  {
-    "id": "2a34cb5da8e007d8",
-    "titulo": "Pero dos lo zarandeaban para que se callara",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/pero-dos-lo-zarandeaban-para-que-se-callara/",
-    "archivo": "2a34cb5da8e007d8.mp3",
-    "bytes": 3647376,
-    "timestamp": 1783235795
-  },
-  {
-    "id": "bd51fc61a35596c8",
-    "titulo": "Violencia fatal e impunidad contra pueblos indígenas en Paraguay",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/violencia-fatal-e-impunidad-contra-pueblos-indigenas-en-paraguay/",
-    "archivo": "bd51fc61a35596c8.mp3",
-    "bytes": 1241856,
-    "timestamp": 1783235758
-  },
-  {
-    "id": "731770e3cc47abd7",
-    "titulo": "Lo político en Cecosesola",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/lo-politico-en-cecosesola/",
-    "archivo": "731770e3cc47abd7.mp3",
-    "bytes": 1417824,
-    "timestamp": 1783235750
-  },
-  {
-    "id": "aa0cd6c5f0b33f27",
-    "titulo": "Maternidades en espera: ser madre y solicitar asilo en México",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/maternidades-en-espera-ser-madre-y-solicitar-asilo-en-mexico/",
-    "archivo": "aa0cd6c5f0b33f27.mp3",
-    "bytes": 2482848,
-    "timestamp": 1783235737
-  },
-  {
-    "id": "599f2175eaa58998",
-    "titulo": "Del plan Colombia al Plan Ecuador. Reconfigurando la arquitectura imperial",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/del-plan-colombia-al-plan-ecuador-reconfigurando-la-arquitectura-imperial/",
-    "archivo": "599f2175eaa58998.mp3",
-    "bytes": 4633776,
-    "timestamp": 1783235716
-  },
-  {
-    "id": "dbfeb9bd6a06d9f0",
-    "titulo": "UNESCO, GEF, CAF y el Acuífero Guaraní. Un nuevo requerimiento sin agua bendita",
-    "fuente": "Columnas – Desinformémonos",
-    "enlace": "https://desinformemonos.org/unesco-gef-caf-y-el-acuifero-guarani-un-nuevo-requerimiento-sin-agua-bendita/",
-    "archivo": "dbfeb9bd6a06d9f0.mp3",
-    "bytes": 1661328,
-    "timestamp": 1783235671
   }
 ]
