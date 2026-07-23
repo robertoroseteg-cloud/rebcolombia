@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¡Bienvenidos a Traquetolandia!</title>
+      <description>Colombia – Rebelion — https://rebelion.org/bienvenidos-a-traquetolandia/</description>
+      <link>https://rebelion.org/bienvenidos-a-traquetolandia/</link>
+      <guid isPermaLink="false">0027770ee6f98356</guid>
+      <pubDate>Thu, 23 Jul 2026 17:07:27 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/0027770ee6f98356.mp3" length="4730112" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>¿Qué puede venir para las universidades públicas?</title>
+      <description>Colombia – Rebelion — https://rebelion.org/que-puede-venir-para-las-universidades-publicas/</description>
+      <link>https://rebelion.org/que-puede-venir-para-las-universidades-publicas/</link>
+      <guid isPermaLink="false">2e70bc0a66c0843a</guid>
+      <pubDate>Thu, 23 Jul 2026 17:06:38 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/2e70bc0a66c0843a.mp3" length="2333808" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Presidente De la Espriella: cuatro años de sometimiento y fanfarronería para Colombia</title>
+      <description>Colombia – Rebelion — https://rebelion.org/presidente-de-la-espriella-cuatro-anos-de-sometimiento-y-fanfarroneria-para-colombia/</description>
+      <link>https://rebelion.org/presidente-de-la-espriella-cuatro-anos-de-sometimiento-y-fanfarroneria-para-colombia/</link>
+      <guid isPermaLink="false">b614e298432a73b6</guid>
+      <pubDate>Thu, 23 Jul 2026 17:06:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/b614e298432a73b6.mp3" length="1963008" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>La izquierda después del progresismo</title>
       <description>Colombia – Rebelion — https://rebelion.org/la-izquierda-despues-del-progresismo/</description>
       <link>https://rebelion.org/la-izquierda-despues-del-progresismo/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">f628997c0b5e0a53</guid>
       <pubDate>Sun, 05 Jul 2026 23:11:21 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f628997c0b5e0a53.mp3" length="2464560" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Cuando la historia se desvanece</title>
-      <description>Colombia – Rebelion — https://rebelion.org/cuando-la-historia-se-desvanece/</description>
-      <link>https://rebelion.org/cuando-la-historia-se-desvanece/</link>
-      <guid isPermaLink="false">1aa3766184199eea</guid>
-      <pubDate>Sun, 05 Jul 2026 23:11:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/1aa3766184199eea.mp3" length="4256208" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Abelardo de la Espriella: Una amenaza sistémica a la vida y los derechos humanos</title>
-      <description>Colombia – Rebelion — https://rebelion.org/abelardo-de-la-espriella-una-amenaza-sistemica-a-la-vida-y-los-derechos-humanos/</description>
-      <link>https://rebelion.org/abelardo-de-la-espriella-una-amenaza-sistemica-a-la-vida-y-los-derechos-humanos/</link>
-      <guid isPermaLink="false">fa2f9f3a67844228</guid>
-      <pubDate>Sun, 05 Jul 2026 23:10:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/fa2f9f3a67844228.mp3" length="6726528" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Sospecha de fraude y fascismo que llega</title>
-      <description>Colombia – Rebelion — https://rebelion.org/sospecha-de-fraude-y-fascismo-que-llega/</description>
-      <link>https://rebelion.org/sospecha-de-fraude-y-fascismo-que-llega/</link>
-      <guid isPermaLink="false">394380ffd71bcc8c</guid>
-      <pubDate>Sun, 05 Jul 2026 23:10:34 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/394380ffd71bcc8c.mp3" length="2122416" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
