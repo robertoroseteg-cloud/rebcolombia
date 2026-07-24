@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Movimiento social: a retomar la senda</title>
+      <description>Colombia – Rebelion — https://rebelion.org/movimiento-social-a-retomar-la-senda/</description>
+      <link>https://rebelion.org/movimiento-social-a-retomar-la-senda/</link>
+      <guid isPermaLink="false">59c5a3fe68499d9d</guid>
+      <pubDate>Fri, 24 Jul 2026 18:03:39 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/59c5a3fe68499d9d.mp3" length="8650080" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¡Bienvenidos a Traquetolandia!</title>
       <description>Colombia – Rebelion — https://rebelion.org/bienvenidos-a-traquetolandia/</description>
       <link>https://rebelion.org/bienvenidos-a-traquetolandia/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">f29b10bb0c921248</guid>
       <pubDate>Sun, 05 Jul 2026 23:11:30 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f29b10bb0c921248.mp3" length="5300064" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Colombia ingresa en una verdadera «crisis orgánica» del régimen oligárquico de dominación</title>
-      <description>Colombia – Rebelion — https://rebelion.org/colombia-ingresa-en-una-verdadera-crisis-organica-del-regimen-oligarquico-de-dominacion/</description>
-      <link>https://rebelion.org/colombia-ingresa-en-una-verdadera-crisis-organica-del-regimen-oligarquico-de-dominacion/</link>
-      <guid isPermaLink="false">f628997c0b5e0a53</guid>
-      <pubDate>Sun, 05 Jul 2026 23:11:21 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f628997c0b5e0a53.mp3" length="2464560" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
