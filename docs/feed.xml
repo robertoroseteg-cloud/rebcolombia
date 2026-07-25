@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Organización, formación y resistencia</title>
+      <description>Colombia – Rebelion — https://rebelion.org/organizacion-formacion-y-resistencia/</description>
+      <link>https://rebelion.org/organizacion-formacion-y-resistencia/</link>
+      <guid isPermaLink="false">5ef8612441e07816</guid>
+      <pubDate>Sat, 25 Jul 2026 16:13:16 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/5ef8612441e07816.mp3" length="1885536" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La enfermedad infantil del pacifismo</title>
+      <description>Colombia – Rebelion — https://rebelion.org/la-enfermedad-infantil-del-pacifismo/</description>
+      <link>https://rebelion.org/la-enfermedad-infantil-del-pacifismo/</link>
+      <guid isPermaLink="false">a1560ed825f9aaba</guid>
+      <pubDate>Sat, 25 Jul 2026 16:12:54 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/a1560ed825f9aaba.mp3" length="3589344" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Cuando desobedecer no basta</title>
+      <description>Colombia – Rebelion — https://rebelion.org/cuando-desobedecer-no-basta/</description>
+      <link>https://rebelion.org/cuando-desobedecer-no-basta/</link>
+      <guid isPermaLink="false">ed51533ef5da3d28</guid>
+      <pubDate>Sat, 25 Jul 2026 16:12:20 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/ed51533ef5da3d28.mp3" length="5279328" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Movimiento social: a retomar la senda</title>
       <description>Colombia – Rebelion — https://rebelion.org/movimiento-social-a-retomar-la-senda/</description>
       <link>https://rebelion.org/movimiento-social-a-retomar-la-senda/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">58ce1fb76bf6abd7</guid>
       <pubDate>Sun, 05 Jul 2026 23:12:44 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/58ce1fb76bf6abd7.mp3" length="10418688" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Más allá del aparente resultado de las elecciones presidenciales de Colombia</title>
-      <description>Colombia – Rebelion — https://rebelion.org/mas-alla-del-aparente-resultado-de-las-elecciones-presidenciales-de-colombia/</description>
-      <link>https://rebelion.org/mas-alla-del-aparente-resultado-de-las-elecciones-presidenciales-de-colombia/</link>
-      <guid isPermaLink="false">79ea758ab02b8922</guid>
-      <pubDate>Sun, 05 Jul 2026 23:11:47 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/79ea758ab02b8922.mp3" length="2888784" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Abelardo de La Espriella, presidente farsante:  injerto del narcoparamilitarismo hacia la dictadura civil fascista en Colombia</title>
-      <description>Colombia – Rebelion — https://rebelion.org/abelardo-de-la-espriella-presidente-farsante-injerto-del-narco-paramilitarismo-hacia-la-dictadura-civil-fascista-en-colombia/</description>
-      <link>https://rebelion.org/abelardo-de-la-espriella-presidente-farsante-injerto-del-narco-paramilitarismo-hacia-la-dictadura-civil-fascista-en-colombia/</link>
-      <guid isPermaLink="false">9e19d70a0931e7b0</guid>
-      <pubDate>Sun, 05 Jul 2026 23:11:40 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/9e19d70a0931e7b0.mp3" length="4833216" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Gobernar sin permanecer</title>
-      <description>Colombia – Rebelion — https://rebelion.org/gobernar-sin-permanecer/</description>
-      <link>https://rebelion.org/gobernar-sin-permanecer/</link>
-      <guid isPermaLink="false">f29b10bb0c921248</guid>
-      <pubDate>Sun, 05 Jul 2026 23:11:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/f29b10bb0c921248.mp3" length="5300064" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
