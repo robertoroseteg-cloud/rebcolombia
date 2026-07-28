@@ -1,5 +1,41 @@
 [
   {
+    "id": "e7233aecacb83ba8",
+    "titulo": "De la Espriella y la batalla cultural de la ultraderecha",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/de-la-espriella-y-la-batalla-cultural-de-la-ultraderecha/",
+    "archivo": "e7233aecacb83ba8.mp3",
+    "bytes": 1784880,
+    "timestamp": 1785261010
+  },
+  {
+    "id": "47bc71d6e17b4b67",
+    "titulo": "La escalera de poder del electo",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/la-escalera-de-poder-del-electo/",
+    "archivo": "47bc71d6e17b4b67.mp3",
+    "bytes": 1824480,
+    "timestamp": 1785260989
+  },
+  {
+    "id": "5a5bd359a1256f5b",
+    "titulo": "La democracia no puede posesionarse entre fusiles",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/la-democracia-no-puede-posesionarse-entre-fusiles/",
+    "archivo": "5a5bd359a1256f5b.mp3",
+    "bytes": 992160,
+    "timestamp": 1785260968
+  },
+  {
+    "id": "deed48726d590430",
+    "titulo": "Al pueblo hay que darle pan, circo y plomo. ¿Cuáles son las propuestas de Abelardo en materia de pan?",
+    "fuente": "Colombia – Rebelion",
+    "enlace": "https://rebelion.org/al-pueblo-hay-que-darle-pan-circo-y-plomo-cuales-son-las-propuestas-de-abelardo-en-materia-de-pan/",
+    "archivo": "deed48726d590430.mp3",
+    "bytes": 2680272,
+    "timestamp": 1785260960
+  },
+  {
     "id": "5ef8612441e07816",
     "titulo": "Organización, formación y resistencia",
     "fuente": "Colombia – Rebelion",
@@ -142,41 +178,5 @@
     "archivo": "c5d435eb41c1f596.mp3",
     "bytes": 3585888,
     "timestamp": 1784475852
-  },
-  {
-    "id": "3342f1251f7965b8",
-    "titulo": "Hacia un Acuerdo Nacional",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/hacia-un-acuerdo-nacional/",
-    "archivo": "3342f1251f7965b8.mp3",
-    "bytes": 881712,
-    "timestamp": 1784475765
-  },
-  {
-    "id": "8889d8ea8a3d6e85",
-    "titulo": "Dar forma a una salida proletaria a la crisis",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/darle-forma-a-una-salida-proletaria-a-la-crisis/",
-    "archivo": "8889d8ea8a3d6e85.mp3",
-    "bytes": 6586704,
-    "timestamp": 1784475756
-  },
-  {
-    "id": "c831bb82212b3c22",
-    "titulo": "Beto Coral: Prepararnos para lo que viene",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/beto-coral-prepararnos-para-lo-que-viene/",
-    "archivo": "c831bb82212b3c22.mp3",
-    "bytes": 1356480,
-    "timestamp": 1784475626
-  },
-  {
-    "id": "58ce1fb76bf6abd7",
-    "titulo": "El «trilema de la urna»: anatomía del voto de derecha en la Colombia de 2026",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/el-trilema-de-la-urna-anatomia-del-voto-de-derecha-en-la-colombia-de-2026/",
-    "archivo": "58ce1fb76bf6abd7.mp3",
-    "bytes": 10418688,
-    "timestamp": 1783293164
   }
 ]
