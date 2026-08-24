@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Pacto histórico, terremoto y control político y social</title>
+      <description>Colombia – Rebelion — https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</description>
+      <link>https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</link>
+      <guid isPermaLink="false">9106651174325b76</guid>
+      <pubDate>Mon, 24 Aug 2026 13:27:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/9106651174325b76.mp3" length="1928016" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Petro y el ingreso de Colombia al bloque fascista andino</title>
+      <description>Colombia – Rebelion — https://rebelion.org/petro-y-el-ingreso-de-colombia-al-bloque-fascista-andino/</description>
+      <link>https://rebelion.org/petro-y-el-ingreso-de-colombia-al-bloque-fascista-andino/</link>
+      <guid isPermaLink="false">a8263ad9141a63cf</guid>
+      <pubDate>Mon, 24 Aug 2026 13:27:03 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/a8263ad9141a63cf.mp3" length="3237120" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Falsa ayuda del genocida que viene a aniquilar</title>
       <description>Colombia – Rebelion — https://rebelion.org/falsa-ayuda-del-genocida-que-viene-a-aniquilar/</description>
       <link>https://rebelion.org/falsa-ayuda-del-genocida-que-viene-a-aniquilar/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">deed48726d590430</guid>
       <pubDate>Tue, 28 Jul 2026 17:49:20 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/deed48726d590430.mp3" length="2680272" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Organización, formación y resistencia</title>
-      <description>Colombia – Rebelion — https://rebelion.org/organizacion-formacion-y-resistencia/</description>
-      <link>https://rebelion.org/organizacion-formacion-y-resistencia/</link>
-      <guid isPermaLink="false">5ef8612441e07816</guid>
-      <pubDate>Sat, 25 Jul 2026 16:13:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/5ef8612441e07816.mp3" length="1885536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La enfermedad infantil del pacifismo</title>
-      <description>Colombia – Rebelion — https://rebelion.org/la-enfermedad-infantil-del-pacifismo/</description>
-      <link>https://rebelion.org/la-enfermedad-infantil-del-pacifismo/</link>
-      <guid isPermaLink="false">a1560ed825f9aaba</guid>
-      <pubDate>Sat, 25 Jul 2026 16:12:54 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/a1560ed825f9aaba.mp3" length="3589344" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
