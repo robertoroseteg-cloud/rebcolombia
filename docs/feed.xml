@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>15 días y 15 frases</title>
+      <description>Colombia – Rebelion — https://rebelion.org/15-dias-y-15-frases/</description>
+      <link>https://rebelion.org/15-dias-y-15-frases/</link>
+      <guid isPermaLink="false">6260098a4a685b68</guid>
+      <pubDate>Sat, 29 Aug 2026 16:49:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/6260098a4a685b68.mp3" length="2325456" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Reconstrucción de Colombia: ¿Del Forec al Fondo Milagro?</title>
+      <description>Colombia – Rebelion — https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</description>
+      <link>https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</link>
+      <guid isPermaLink="false">41aa9bec8c0c2432</guid>
+      <pubDate>Sat, 29 Aug 2026 16:49:04 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/41aa9bec8c0c2432.mp3" length="2784240" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Javier Giraldo, hasta siempre</title>
+      <description>Colombia – Rebelion — https://rebelion.org/javier-giraldo-hasta-siempre/</description>
+      <link>https://rebelion.org/javier-giraldo-hasta-siempre/</link>
+      <guid isPermaLink="false">4cffd0c03d9ae1e7</guid>
+      <pubDate>Sat, 29 Aug 2026 16:48:30 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/4cffd0c03d9ae1e7.mp3" length="1858176" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Pacto histórico, terremoto y control político y social</title>
       <description>Colombia – Rebelion — https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</description>
       <link>https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">e7233aecacb83ba8</guid>
       <pubDate>Tue, 28 Jul 2026 17:50:10 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/e7233aecacb83ba8.mp3" length="1784880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La escalera de poder del electo</title>
-      <description>Colombia – Rebelion — https://rebelion.org/la-escalera-de-poder-del-electo/</description>
-      <link>https://rebelion.org/la-escalera-de-poder-del-electo/</link>
-      <guid isPermaLink="false">47bc71d6e17b4b67</guid>
-      <pubDate>Tue, 28 Jul 2026 17:49:49 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/47bc71d6e17b4b67.mp3" length="1824480" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La democracia no puede posesionarse entre fusiles</title>
-      <description>Colombia – Rebelion — https://rebelion.org/la-democracia-no-puede-posesionarse-entre-fusiles/</description>
-      <link>https://rebelion.org/la-democracia-no-puede-posesionarse-entre-fusiles/</link>
-      <guid isPermaLink="false">5a5bd359a1256f5b</guid>
-      <pubDate>Tue, 28 Jul 2026 17:49:28 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/5a5bd359a1256f5b.mp3" length="992160" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Al pueblo hay que darle pan, circo y plomo. ¿Cuáles son las propuestas de Abelardo en materia de pan?</title>
-      <description>Colombia – Rebelion — https://rebelion.org/al-pueblo-hay-que-darle-pan-circo-y-plomo-cuales-son-las-propuestas-de-abelardo-en-materia-de-pan/</description>
-      <link>https://rebelion.org/al-pueblo-hay-que-darle-pan-circo-y-plomo-cuales-son-las-propuestas-de-abelardo-en-materia-de-pan/</link>
-      <guid isPermaLink="false">deed48726d590430</guid>
-      <pubDate>Tue, 28 Jul 2026 17:49:20 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/deed48726d590430.mp3" length="2680272" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
