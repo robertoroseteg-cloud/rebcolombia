@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Colombia sin Dirección: Abelardo de la Espriella un chivo sin cabeza</title>
+      <description>Rebelión · Colombia — https://rebelion.org/colombia-sin-direccion-abelardo-de-la-espriella-un-chivo-sin-cabeza/</description>
+      <link>https://rebelion.org/colombia-sin-direccion-abelardo-de-la-espriella-un-chivo-sin-cabeza/</link>
+      <guid isPermaLink="false">43bdbfb10d99fe35</guid>
+      <pubDate>Sun, 25 Oct 2026 16:37:44 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/43bdbfb10d99fe35.mp3" length="1978272" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La protesta callejera en modo oposición política</title>
+      <description>Rebelión · Colombia — https://rebelion.org/la-protesta-callejera-en-modo-oposicion-politica/</description>
+      <link>https://rebelion.org/la-protesta-callejera-en-modo-oposicion-politica/</link>
+      <guid isPermaLink="false">37470774f87df9bf</guid>
+      <pubDate>Sun, 25 Oct 2026 16:37:22 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/37470774f87df9bf.mp3" length="3259584" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Fascismo y necropolítica</title>
       <description>Rebelión · Colombia — https://rebelion.org/fascismo-y-necropolitica/</description>
       <link>https://rebelion.org/fascismo-y-necropolitica/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">6da0a0f77bc22cdb</guid>
       <pubDate>Thu, 13 Aug 2026 13:55:25 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/6da0a0f77bc22cdb.mp3" length="9301536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Defender la paz, no rotundo al retorno de la guerra</title>
-      <description>Colombia – Rebelion — https://rebelion.org/defender-la-paz-no-rotundo-al-retorno-de-la-guerra/</description>
-      <link>https://rebelion.org/defender-la-paz-no-rotundo-al-retorno-de-la-guerra/</link>
-      <guid isPermaLink="false">1895e2270ca8ba08</guid>
-      <pubDate>Sat, 08 Aug 2026 13:23:39 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/1895e2270ca8ba08.mp3" length="2041776" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La restauración conservadora</title>
-      <description>Colombia – Rebelion — https://rebelion.org/la-restauracion-conservadora-2/</description>
-      <link>https://rebelion.org/la-restauracion-conservadora-2/</link>
-      <guid isPermaLink="false">93dc58f4af163cba</guid>
-      <pubDate>Sat, 08 Aug 2026 13:23:16 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/93dc58f4af163cba.mp3" length="1175904" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
