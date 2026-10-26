@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>La payasocracia como síntoma: apuntes para una crítica del presente colombiano</title>
+      <description>Rebelión · Colombia — https://rebelion.org/la-payasocracia-como-sintoma-apuntes-para-una-critica-del-presente-colombiano/</description>
+      <link>https://rebelion.org/la-payasocracia-como-sintoma-apuntes-para-una-critica-del-presente-colombiano/</link>
+      <guid isPermaLink="false">1b950da08dba121e</guid>
+      <pubDate>Mon, 26 Oct 2026 18:46:43 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/1b950da08dba121e.mp3" length="7075152" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Colombia sin Dirección: Abelardo de la Espriella un chivo sin cabeza</title>
       <description>Rebelión · Colombia — https://rebelion.org/colombia-sin-direccion-abelardo-de-la-espriella-un-chivo-sin-cabeza/</description>
       <link>https://rebelion.org/colombia-sin-direccion-abelardo-de-la-espriella-un-chivo-sin-cabeza/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">b065f2f7a903ba1e</guid>
       <pubDate>Fri, 14 Aug 2026 13:50:58 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/b065f2f7a903ba1e.mp3" length="6061536" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>¿El racismo estructural es la clave de interpretación del terremoto del Chocó, región con mayoría afrocolombiana?</title>
-      <description>Colombia – Rebelion — https://rebelion.org/el-racismo-estructural-es-la-clave-de-interpretacion-del-terremoto-del-choco-region-con-mayoria-afrocolombiana/</description>
-      <link>https://rebelion.org/el-racismo-estructural-es-la-clave-de-interpretacion-del-terremoto-del-choco-region-con-mayoria-afrocolombiana/</link>
-      <guid isPermaLink="false">6da0a0f77bc22cdb</guid>
-      <pubDate>Thu, 13 Aug 2026 13:55:25 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/6da0a0f77bc22cdb.mp3" length="9301536" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
