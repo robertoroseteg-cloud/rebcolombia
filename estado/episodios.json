@@ -1,5 +1,32 @@
 [
   {
+    "id": "714293f871642cf3",
+    "titulo": "«Estamos ad portas de una crisis autoritaria»: profesor Eduardo Pizarro en el seminario internacional de los 40 años del IEPRI",
+    "fuente": "Rebelión · Colombia",
+    "enlace": "https://rebelion.org/estamos-ad-portas-de-una-crisis-autoritaria-profesor-eduardo-pizarro-en-el-seminario-internacional-de-los-40-anos-del-iepri/",
+    "archivo": "714293f871642cf3.mp3",
+    "bytes": 19045296,
+    "timestamp": 1793125528
+  },
+  {
+    "id": "3a15b7337efe6aea",
+    "titulo": "De la Espriella quiere tropas estadounidenses en Colombia",
+    "fuente": "Rebelión · Colombia",
+    "enlace": "https://rebelion.org/de-la-espriella-quiere-tropas-estadounidenses-en-colombia/",
+    "archivo": "3a15b7337efe6aea.mp3",
+    "bytes": 5190912,
+    "timestamp": 1793124759
+  },
+  {
+    "id": "d79dfa3790fea303",
+    "titulo": "La guerra milagro es contra la sociedad",
+    "fuente": "Rebelión · Colombia",
+    "enlace": "https://rebelion.org/la-guerra-milagro-es-contra-la-sociedad/",
+    "archivo": "d79dfa3790fea303.mp3",
+    "bytes": 2208384,
+    "timestamp": 1793124527
+  },
+  {
     "id": "1b950da08dba121e",
     "titulo": "La payasocracia como síntoma: apuntes para una crítica del presente colombiano",
     "fuente": "Rebelión · Colombia",
@@ -151,32 +178,5 @@
     "archivo": "860b950fe336dfe4.mp3",
     "bytes": 2855952,
     "timestamp": 1787059140
-  },
-  {
-    "id": "d8ec7905af934e4f",
-    "titulo": "¿El presidente De la Espriella convirtió la ayuda humanitaria en ocupación militar después del terremoto en Cali?",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/el-presidente-de-la-espriella-convirtio-la-ayuda-humanitaria-en-ocupacion-militar-despues-del-terremoto-en-cali/",
-    "archivo": "d8ec7905af934e4f.mp3",
-    "bytes": 10891296,
-    "timestamp": 1787059102
-  },
-  {
-    "id": "27a563e65e59dcad",
-    "titulo": "Un oscuro personaje presidirá Colombia",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/un-oscuro-personaje-presidira-colombia/",
-    "archivo": "27a563e65e59dcad.mp3",
-    "bytes": 2519856,
-    "timestamp": 1786799045
-  },
-  {
-    "id": "b065f2f7a903ba1e",
-    "titulo": "Doble sacudida en Colombia: bombas y temblores",
-    "fuente": "Colombia – Rebelion",
-    "enlace": "https://rebelion.org/doble-sacudida-en-colombia-bombas-y-temblores/",
-    "archivo": "b065f2f7a903ba1e.mp3",
-    "bytes": 6061536,
-    "timestamp": 1786715458
   }
 ]
