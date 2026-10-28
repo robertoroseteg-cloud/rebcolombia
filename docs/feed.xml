@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Acumulación por aseguramiento</title>
+      <description>Rebelión · Colombia — https://rebelion.org/acumulacion-por-aseguramiento/</description>
+      <link>https://rebelion.org/acumulacion-por-aseguramiento/</link>
+      <guid isPermaLink="false">4eb2adb2d6fa72fe</guid>
+      <pubDate>Wed, 28 Oct 2026 18:25:24 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/4eb2adb2d6fa72fe.mp3" length="5478192" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>«Estamos ad portas de una crisis autoritaria»: profesor Eduardo Pizarro en el seminario internacional de los 40 años del IEPRI</title>
       <description>Rebelión · Colombia — https://rebelion.org/estamos-ad-portas-de-una-crisis-autoritaria-profesor-eduardo-pizarro-en-el-seminario-internacional-de-los-40-anos-del-iepri/</description>
       <link>https://rebelion.org/estamos-ad-portas-de-una-crisis-autoritaria-profesor-eduardo-pizarro-en-el-seminario-internacional-de-los-40-anos-del-iepri/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">af9f99612991d9c9</guid>
       <pubDate>Tue, 18 Aug 2026 13:19:36 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/af9f99612991d9c9.mp3" length="3170880" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>La solidaridad de la Brigada Internacional de Rescate Topos Azteca</title>
-      <description>Colombia – Rebelion — https://rebelion.org/la-solidaridad-de-la-brigada-internacional-de-rescate-topos-azteca/</description>
-      <link>https://rebelion.org/la-solidaridad-de-la-brigada-internacional-de-rescate-topos-azteca/</link>
-      <guid isPermaLink="false">860b950fe336dfe4</guid>
-      <pubDate>Tue, 18 Aug 2026 13:19:00 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/860b950fe336dfe4.mp3" length="2855952" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
