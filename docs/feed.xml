@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Colombia y el caos institucional, fiscal, socioeconómico y político</title>
+      <description>Rebelión · Colombia — https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</description>
+      <link>https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</link>
+      <guid isPermaLink="false">adc01c4292143c98</guid>
+      <pubDate>Thu, 29 Oct 2026 18:34:15 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/adc01c4292143c98.mp3" length="2720880" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Acumulación por aseguramiento</title>
       <description>Rebelión · Colombia — https://rebelion.org/acumulacion-por-aseguramiento/</description>
       <link>https://rebelion.org/acumulacion-por-aseguramiento/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">3228ee13278f2ed2</guid>
       <pubDate>Thu, 20 Aug 2026 13:24:31 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/3228ee13278f2ed2.mp3" length="8439408" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Colombia no es un Estado laico, es cristiano</title>
-      <description>Colombia – Rebelion — https://rebelion.org/colombia-no-es-un-estado-laico-es-cristiano/</description>
-      <link>https://rebelion.org/colombia-no-es-un-estado-laico-es-cristiano/</link>
-      <guid isPermaLink="false">af9f99612991d9c9</guid>
-      <pubDate>Tue, 18 Aug 2026 13:19:36 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/af9f99612991d9c9.mp3" length="3170880" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
