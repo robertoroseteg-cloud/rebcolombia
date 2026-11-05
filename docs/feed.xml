@@ -8,6 +8,30 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Derecho a la memoria</title>
+      <description>Rebelión · Colombia — https://rebelion.org/derecho-a-la-memoria/</description>
+      <link>https://rebelion.org/derecho-a-la-memoria/</link>
+      <guid isPermaLink="false">7292f653df7746a3</guid>
+      <pubDate>Thu, 05 Nov 2026 20:11:32 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/7292f653df7746a3.mp3" length="1854720" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Abelardo va al rescate de la oligarquía: Se viene otro «estallido social y popular»</title>
+      <description>Rebelión · Colombia — https://rebelion.org/abelardo-va-al-rescate-de-la-oligarquia-se-viene-otro-estallido-social-y-popular/</description>
+      <link>https://rebelion.org/abelardo-va-al-rescate-de-la-oligarquia-se-viene-otro-estallido-social-y-popular/</link>
+      <guid isPermaLink="false">8f9f9a04857c0a4d</guid>
+      <pubDate>Thu, 05 Nov 2026 20:10:57 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/8f9f9a04857c0a4d.mp3" length="5418576" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Memoria, afectos y solidaridad en medio de la guerra</title>
+      <description>Rebelión · Colombia — https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</description>
+      <link>https://rebelion.org/memoria-afectos-y-solidaridad-en-medio-de-la-guerra/</link>
+      <guid isPermaLink="false">a5ebe37381a3e5f7</guid>
+      <pubDate>Thu, 05 Nov 2026 20:08:26 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/a5ebe37381a3e5f7.mp3" length="2338992" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Colombia y el caos institucional, fiscal, socioeconómico y político</title>
       <description>Rebelión · Colombia — https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</description>
       <link>https://rebelion.org/colombia-y-el-caos-institucional-fiscal-socioeconomico-y-politico/</link>
@@ -142,30 +166,6 @@
       <guid isPermaLink="false">9106651174325b76</guid>
       <pubDate>Mon, 24 Aug 2026 13:27:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/9106651174325b76.mp3" length="1928016" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Petro y el ingreso de Colombia al bloque fascista andino</title>
-      <description>Colombia – Rebelion — https://rebelion.org/petro-y-el-ingreso-de-colombia-al-bloque-fascista-andino/</description>
-      <link>https://rebelion.org/petro-y-el-ingreso-de-colombia-al-bloque-fascista-andino/</link>
-      <guid isPermaLink="false">a8263ad9141a63cf</guid>
-      <pubDate>Mon, 24 Aug 2026 13:27:03 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/a8263ad9141a63cf.mp3" length="3237120" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Falsa ayuda del genocida que viene a aniquilar</title>
-      <description>Colombia – Rebelion — https://rebelion.org/falsa-ayuda-del-genocida-que-viene-a-aniquilar/</description>
-      <link>https://rebelion.org/falsa-ayuda-del-genocida-que-viene-a-aniquilar/</link>
-      <guid isPermaLink="false">d6b6d913ba76b2bf</guid>
-      <pubDate>Fri, 21 Aug 2026 13:22:42 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/d6b6d913ba76b2bf.mp3" length="1847952" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Los retos de la reconstrucción de Colombia</title>
-      <description>Colombia – Rebelion — https://rebelion.org/los-retos-de-la-reconstruccion-de-colombia/</description>
-      <link>https://rebelion.org/los-retos-de-la-reconstruccion-de-colombia/</link>
-      <guid isPermaLink="false">3228ee13278f2ed2</guid>
-      <pubDate>Thu, 20 Aug 2026 13:24:31 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/3228ee13278f2ed2.mp3" length="8439408" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
