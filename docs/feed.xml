@@ -8,6 +8,22 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>¿Nos estamos volviendo un país paria?</title>
+      <description>Rebelión · Colombia — https://rebelion.org/nos-estamos-volviendo-un-pais-paria/</description>
+      <link>https://rebelion.org/nos-estamos-volviendo-un-pais-paria/</link>
+      <guid isPermaLink="false">59fb05797eb7c206</guid>
+      <pubDate>Mon, 09 Nov 2026 22:33:35 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/59fb05797eb7c206.mp3" length="1968768" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>La crisis fiscal del Estado y el ajuste de Abelardo</title>
+      <description>Rebelión · Colombia — https://rebelion.org/la-crisis-fiscal-del-estado-y-el-ajuste-de-abelardo/</description>
+      <link>https://rebelion.org/la-crisis-fiscal-del-estado-y-el-ajuste-de-abelardo/</link>
+      <guid isPermaLink="false">82dfbdb4e1e8289f</guid>
+      <pubDate>Mon, 09 Nov 2026 22:33:05 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/82dfbdb4e1e8289f.mp3" length="2743776" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Derecho a la memoria</title>
       <description>Rebelión · Colombia — https://rebelion.org/derecho-a-la-memoria/</description>
       <link>https://rebelion.org/derecho-a-la-memoria/</link>
@@ -150,22 +166,6 @@
       <guid isPermaLink="false">41aa9bec8c0c2432</guid>
       <pubDate>Sat, 29 Aug 2026 16:49:04 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/41aa9bec8c0c2432.mp3" length="2784240" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Javier Giraldo, hasta siempre</title>
-      <description>Colombia – Rebelion — https://rebelion.org/javier-giraldo-hasta-siempre/</description>
-      <link>https://rebelion.org/javier-giraldo-hasta-siempre/</link>
-      <guid isPermaLink="false">4cffd0c03d9ae1e7</guid>
-      <pubDate>Sat, 29 Aug 2026 16:48:30 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/4cffd0c03d9ae1e7.mp3" length="1858176" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Pacto histórico, terremoto y control político y social</title>
-      <description>Colombia – Rebelion — https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</description>
-      <link>https://rebelion.org/pacto-historico-terremoto-y-control-politico-y-social/</link>
-      <guid isPermaLink="false">9106651174325b76</guid>
-      <pubDate>Mon, 24 Aug 2026 13:27:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/9106651174325b76.mp3" length="1928016" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
