@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Eccehomo Petro</title>
+      <description>Rebelión · Colombia — https://rebelion.org/eccehomo-petro/</description>
+      <link>https://rebelion.org/eccehomo-petro/</link>
+      <guid isPermaLink="false">182b1dfe1ff89b1c</guid>
+      <pubDate>Wed, 11 Nov 2026 19:45:34 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/182b1dfe1ff89b1c.mp3" length="3374496" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>¿Nos estamos volviendo un país paria?</title>
       <description>Rebelión · Colombia — https://rebelion.org/nos-estamos-volviendo-un-pais-paria/</description>
       <link>https://rebelion.org/nos-estamos-volviendo-un-pais-paria/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">6260098a4a685b68</guid>
       <pubDate>Sat, 29 Aug 2026 16:49:32 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/6260098a4a685b68.mp3" length="2325456" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>Reconstrucción de Colombia: ¿Del Forec al Fondo Milagro?</title>
-      <description>Colombia – Rebelion — https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</description>
-      <link>https://rebelion.org/reconstruccion-de-colombia-del-forec-al-fondo-milagro/</link>
-      <guid isPermaLink="false">41aa9bec8c0c2432</guid>
-      <pubDate>Sat, 29 Aug 2026 16:49:04 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/41aa9bec8c0c2432.mp3" length="2784240" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
