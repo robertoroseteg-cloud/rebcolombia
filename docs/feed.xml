@@ -8,6 +8,14 @@
     <itunes:author>Pipeline automatico</itunes:author>
     
     <item>
+      <title>Reformas para el rescate fiscal y reducción de la deuda pública</title>
+      <description>Rebelión · Colombia — https://rebelion.org/reformas-para-el-rescate-fiscal-y-reduccion-de-la-deuda-publica/</description>
+      <link>https://rebelion.org/reformas-para-el-rescate-fiscal-y-reduccion-de-la-deuda-publica/</link>
+      <guid isPermaLink="false">8bda0902e6ca04e5</guid>
+      <pubDate>Fri, 13 Nov 2026 19:54:19 GMT</pubDate>
+      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/8bda0902e6ca04e5.mp3" length="3037248" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Eccehomo Petro</title>
       <description>Rebelión · Colombia — https://rebelion.org/eccehomo-petro/</description>
       <link>https://rebelion.org/eccehomo-petro/</link>
@@ -158,14 +166,6 @@
       <guid isPermaLink="false">0bb21aa73285c1a6</guid>
       <pubDate>Sat, 24 Oct 2026 16:16:48 GMT</pubDate>
       <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/0bb21aa73285c1a6.mp3" length="2201472" type="audio/mpeg"/>
-    </item>
-    <item>
-      <title>15 días y 15 frases</title>
-      <description>Colombia – Rebelion — https://rebelion.org/15-dias-y-15-frases/</description>
-      <link>https://rebelion.org/15-dias-y-15-frases/</link>
-      <guid isPermaLink="false">6260098a4a685b68</guid>
-      <pubDate>Sat, 29 Aug 2026 16:49:32 GMT</pubDate>
-      <enclosure url="https://robertoroseteg-cloud.github.io/rebcolombia/episodios/6260098a4a685b68.mp3" length="2325456" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
